@@ -1,22 +1,24 @@
 html {
   background: url(../images/website_pic.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
   font-family: 'Helvetica Neue', sans-serif;
 }
 
 .prof-box {
   width: 600px;
-  height: 350px;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 5px;
+  height: 331px;
+  background: rgba(0, 0, 0, 0.26);
+  padding: 0px;
   color: white;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 0px;
   text-align: center;
 }
 
 h1 {
   font-weight: 300;
-  letter-spacing: 20;
+  letter-spacing: 17;
   font-size: 80px;
 }
 
